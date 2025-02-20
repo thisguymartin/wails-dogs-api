@@ -1,4 +1,9 @@
-# README
+# dogs-api
+
+## Overview
+
+This is just a basic run of a project built using wails tech in Vue
+
 
 ## About
 
